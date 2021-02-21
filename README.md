@@ -1,2 +1,2 @@
 # hello-world
-hello world for github
+Trying out hello-world repo in github. Pretty straightforward
